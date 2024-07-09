@@ -16,7 +16,7 @@ PLAIN='\033[0m'
 getAbout() {
 	echo ""
 	echo " ========================================================= "
-	echo " \                 SuperUpdate.sh  Script                / "
+	echo " \                 repoupdate.sh  Script                / "
 	echo " \            Choose a faster mirror for Linux           / "
 	echo " \                   Created by Oldking                  / "
 	echo " ========================================================= "
